@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif" alt="Coding Animation" width="100%">
+</div>
 
 # <div align="center">👨‍💻 Masum Mahmud | Full Stack Developer 🚀</div>
 
@@ -9,11 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=devmasum69x&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/devmasum69x?label=Followers&style=social" alt="GitHub followers" />
 </p>
-
-<div align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif" alt="Coding Animation" width="100%">
-</div>
-
 
 ## 🌟 Quick Highlights
 
