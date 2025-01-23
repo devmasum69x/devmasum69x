@@ -113,5 +113,5 @@
 
 ```text
 Android Development    █████████░░   45%
-Web Development       ████████░░░░   40%
-UI/UX Design         ███░░░░░░░░░   15%
+UI/UX Design       ████████░░░░   40%
+Web Development  ███░░░░░░░░░   15%
